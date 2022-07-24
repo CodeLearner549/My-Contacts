@@ -1,0 +1,14 @@
+body {
+  width: 600px;
+  margin: auto;
+  padding: 20px;
+}
+
+#contacts {
+  margin-top: 40px
+}
+
+#contacts div {
+  border: 1px solid grey;
+  padding: 10px;
+}
